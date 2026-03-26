@@ -86,11 +86,22 @@ A full-stack AI-powered internal ticketing platform that analyzes tickets, auto-
 
 Add screenshots or GIFs here for the final submission.
 
+![Dashboard](screenshots/01-dashboard.png)
+![Create Ticket](screenshots/02-create-ticket.png)
+![Auto Resolve](screenshots/03-auto-resolve.png)
+![Assigned Ticket](screenshots/04-assigned-ticket.png)
+![Lifecycle Actions](screenshots/05-lifecycle-actions.png)
+![Timeline](screenshots/06-timeline.png)
+![Analytics](screenshots/07-analytics.png)
+
 ### Suggested Captures
 - Dashboard overview (System Health + Analytics)
 - Create Ticket flow (AI analysis + auto-resolve)
+- Auto-resolved ticket view
+- Assigned ticket view
 - Ticket lifecycle actions (status update, notes, request info)
 - Timeline view with events
+- Analytics section
 
 ## Setup Instructions
 
