@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# SQLite
+*.db
+*.db.bak.*
+
+# Node
+node_modules/
+.next/
+npm-debug.log*
+yarn-error.log*
+
+# OS/Editor
+.DS_Store
+Thumbs.db
