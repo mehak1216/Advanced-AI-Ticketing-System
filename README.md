@@ -158,7 +158,7 @@ Once the backend is running, visit http://127.0.0.1:8011/docs for interactive AP
 
 ## Demo
 
-[Link to demo video]
+[Demo Video](https://drive.google.com/file/d/1rM_HK9A-trAHcxT254t_HdUBFXiZ_Uvu/view?usp=drive_link)
 
 ## Known Limitations
 
